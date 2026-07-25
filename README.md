@@ -1,9 +1,9 @@
-# 🇦🇪 DubaiJobs.ae — 100,000 Job Portal
+# 🇸🇬 SGJOBS.sg — 100,000 Job Portal
 
 ## Features
 - ✅ 100,000 unique job pages (`/jobs/1` → `/jobs/100000`)
 - ✅ JSON-LD JobPosting schema on every job page
-- ✅ 50% Remote jobs, 50% On-site jobs across all 7 Emirates
+- ✅ 50% Remote jobs, 50% On-site jobs across Singapore
 - ✅ XML Sitemaps (100 sitemap files)
 - ✅ robots.txt
 - ✅ Pagination (20 jobs/page)
