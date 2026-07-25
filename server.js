@@ -13,14 +13,14 @@ app.use(express.static('public'));
 const AD_SCRIPT = `
 <script>
   atOptions = {
-    'key' : '72b6f3ac3fc2f43722e5f2196ef85add',
+    'key' : 'a37e84c59430eff77c05fbd9b2836fc2',
     'format' : 'iframe',
     'height' : 90,
     'width' : 728,
     'params' : {}
   };
 </script>
-<script src="https://www.highperformanceformat.com/72b6f3ac3fc2f43722e5f2196ef85add/invoke.js"></script>
+<script src="https://industriousslowly.com/a37e84c59430eff77c05fbd9b2836fc2/invoke.js"></script>
 `;
 
 const AD_TOP = `
@@ -166,14 +166,14 @@ ${AD_TOP}
     <div>
 <script>
   atOptions = {
-    'key' : 'd1b072857c7132ec474a48b3413701e2',
+    'key' : '17a9dc2f21b83333799025f6123996c2',
     'format' : 'iframe',
     'height' : 60,
     'width' : 468,
     'params' : {}
   };
 </script>
-<script src="https://www.highperformanceformat.com/d1b072857c7132ec474a48b3413701e2/invoke.js"></script>
+<script src="https://industriousslowly.com/17a9dc2f21b83333799025f6123996c2/invoke.js"></script>
 </div>
 </div>
 ${bodyContent}
