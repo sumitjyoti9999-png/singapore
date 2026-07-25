@@ -1,7 +1,7 @@
 {
-  "name": "dubai-jobs-portal",
+  "name": "singapore-jobs-portal",
   "version": "1.0.0",
-  "description": "Dubai Jobs Portal - 100,000 Job Listings | UAE",
+  "description": "Singapore Jobs Portal - 100,000 Job Listings | SG",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
